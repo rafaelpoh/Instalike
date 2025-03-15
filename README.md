@@ -1,5 +1,7 @@
 # Instalike
 Projeto desenvolvido na imersão back-end da alura.
+
+## :clipboard: Sobre o Projeto
 É um projeto de uma rede social onde publica a foto e com integração com a IA do Google, a Gemini, a própria IA cria a descrição da imagem publicada.
 Banco de dados usado foi um mongodb.
 
@@ -11,3 +13,7 @@ Imagem do banco de dados.
 
 Descrição da foto postada criada pela Google Gemini.
 
+## :computer: Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+-
