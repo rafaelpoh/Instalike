@@ -16,4 +16,6 @@ Descrição da foto postada criada pela Google Gemini.
 ## :computer: Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
--
+- Javascript
+- MongoDb
+- Node.js
